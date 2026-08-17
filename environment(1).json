@@ -1,0 +1,11 @@
+{
+  "python": "3.11.16",
+  "numpy": "2.4.6",
+  "pandas": "3.0.5",
+  "sentence_transformers": "5.7.0",
+  "chromadb": "1.5.9",
+  "sklearn": "1.9.0",
+  "model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "seed": 42,
+  "K": 10
+}
